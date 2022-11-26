@@ -1,2 +1,2 @@
 # carissaviehbeck.github.io
-Lab 7
+Lab 7 - Web Mapping 
